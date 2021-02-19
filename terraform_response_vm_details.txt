@@ -1,0 +1,2 @@
+instance.0.ip_address                           = 10.202.108.179
+instance.0.label                                = 0c8e15a4-bae9-4138-80c9-8769bb26c669
